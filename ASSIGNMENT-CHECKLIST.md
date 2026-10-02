@@ -1,0 +1,24 @@
+# Assignment Checklist
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] GSAP / ScrollTrigger
+- [x] React.js
+- [x] Tailwind CSS
+- [x] Above-the-fold hero section
+- [x] Letter-spaced W E L C O M E I T Z F I Z Z headline
+- [x] Percentage metrics with short descriptions
+- [x] Smooth headline load animation
+- [x] Staggered statistics load animation
+- [x] Scroll-driven main visual movement
+- [x] Motion tied to scroll progress, not autoplay
+- [x] ScrollTrigger scrub smoothing / interpolation
+- [x] Transform-first motion for performance
+- [x] Avoids a heavy manual scroll loop / repeated layout work
+- [x] Responsive layout
+- [x] Reduced-motion support
+- [x] Clean separated React/CSS source files
+- [x] GitHub Pages deployment workflow included
+- [x] No npm/build setup required
+- [ ] Live GitHub Pages URL: must be created from the user's GitHub repository
