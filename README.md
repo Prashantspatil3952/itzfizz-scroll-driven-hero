@@ -1,3 +1,5 @@
+#live link https://prashantspatil3952.github.io/itzfizz-scroll-driven-hero/
+
 # ITZFIZZ — Scroll-Driven Hero Section Animation
 
 GitHub Pages-ready assignment submission inspired by the supplied ITZFIZZ car scroll reference.
@@ -34,18 +36,3 @@ GitHub Pages-ready assignment submission inspired by the supplied ITZFIZZ car sc
 - No manual per-scroll animation loop
 - Motion is primarily transform/opacity based
 - `prefers-reduced-motion` support is included
-
-## Run locally
-
-No Node, npm, or build step is required. Open `index.html` directly in a browser with internet access, because React, Tailwind, Babel and GSAP are loaded from public CDNs.
-
-## GitHub Pages
-
-1. Create a repository and upload this project to the `main` branch.
-2. Go to **Settings → Pages → Build and deployment**.
-3. Select **GitHub Actions**.
-4. Push to `main` (or run the workflow manually). The included `.github/workflows/pages.yml` deploys the repository root.
-
-## Reference
-
-https://paraschaturvedi.github.io/car-scroll-animation/
